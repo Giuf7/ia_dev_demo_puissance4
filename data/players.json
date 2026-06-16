@@ -1,0 +1,12 @@
+[
+  { "name": "Nexus_77",   "wins": 52, "losses": 18, "draws": 4  },
+  { "name": "CipherX",    "wins": 41, "losses": 22, "draws": 7  },
+  { "name": "Volt_Zero",  "wins": 38, "losses": 19, "draws": 2  },
+  { "name": "Aya_Neon",   "wins": 35, "losses": 25, "draws": 9  },
+  { "name": "Kira_Blade", "wins": 29, "losses": 30, "draws": 6  },
+  { "name": "Ghost_404",  "wins": 27, "losses": 33, "draws": 5  },
+  { "name": "PixelWolf",  "wins": 22, "losses": 28, "draws": 11 },
+  { "name": "Maru_IX",    "wins": 18, "losses": 35, "draws": 3  },
+  { "name": "ByteKing",   "wins": 14, "losses": 40, "draws": 8  },
+  { "name": "Lobo_Dark",  "wins":  8, "losses": 44, "draws": 2  }
+]

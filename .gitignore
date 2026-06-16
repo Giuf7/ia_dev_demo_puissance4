@@ -1,0 +1,17 @@
+# Réglages locaux Claude Code (spécifiques à la machine)
+.claude/settings.local.json
+
+# Dépendances
+node_modules/
+
+# Système / éditeurs
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
