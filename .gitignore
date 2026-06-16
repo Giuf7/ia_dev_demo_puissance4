@@ -1,5 +1,5 @@
-# Réglages locaux Claude Code (spécifiques à la machine)
-.claude/settings.local.json
+# Docs
+docs/
 
 # Dépendances
 node_modules/
